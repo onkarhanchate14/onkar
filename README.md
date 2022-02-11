@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/onkarhanchate14/onkar/master/name.svg" alt="Decoder" />
+  <img src="https://raw.githubusercontent.com/onkarhanchate14/onkarhanchate14/master/name.svg" alt="Decoder" />
 </h1>
 
 ## Hey! 👋
