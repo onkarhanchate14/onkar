@@ -12,5 +12,5 @@ I'm Onkar, a 21 years old developer from India.
 - 💽 MySQL, SQL
 
 ## Contact
-- [Onkar Hanchate](onkarhanchate14@gmail.com)
+- [Onkar Hanchate](mailto:onkarhanchate14@gmail.com)
 
